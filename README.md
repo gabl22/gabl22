@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hey ho! 🚀
+I'm gabl, level 14 in life and Austrian.
+In my free time, I'll develop mainly in Java.
 
-<!--
-**gabl22/gabl22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🔭 I’m mainly working on [NatroxMC](https://github.com/NatroxMC/)<br>
+  with other nice guys like [Lars](https://github.com/dasdrolpi/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🌱 I’m currently learning about Java<br>
+  Whenever a day passes, I've learned something new.<br>
+  I've dedicated some time to HTML, JS and CSS,<br>
+  but I'm honest - It was awful. I really do not like<br>
+  frontend development. <b>Praise to Frontend Devs</b>🎉<br>
+  I've little experience with Python. At the moment,<br>
+  I'm interested in DOS systems, playing around<br>
+  with Microsoft Batch & PowerShell.
+  
+  ✨ You're asking about my story?<br>
+  My story is not finished yet.<br>
+  I'm still writing...<br>
+  Go on.<br>
+  Wake up.
+  
+  To be continued.
+  
+  talKie, gabl
