@@ -3,7 +3,8 @@ I'm gabl, level 14 in life and Austrian.
 In my free time, I'll develop mainly in Java.
 
   🔭 I’m mainly working on [NatroxMC](https://github.com/NatroxMC/)<br>
-  with other nice guys like [Lars](https://github.com/dasdrolpi/)
+  Meanwhile, I work on other projects, mostly private,<br>
+  but you can visit [XML](https://github.com/gabl22/XML), an XML Parser.
 
   🌱 I’m currently learning about Java<br>
   Whenever a day passes, I've learned something new.<br>
