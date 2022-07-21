@@ -13,11 +13,13 @@ In my free time, I'll develop mainly in Java.
   frontend development. <b>Praise to Frontend Devs</b>🎉<br>
   I've little experience with Python. At the moment,<br>
   I'm interested in DOS systems, playing around<br>
-  with Microsoft Batch & PowerShell.
+  with Microsoft Batch & PowerShell as well as<br>
+  other libraries in Java. (Stay tuned!) 
   
   ✨ You're asking about my story?<br>
   My story is not finished yet.<br>
   I'm still writing...<br>
+  working...<br>
   Go on.<br>
   Wake up.
   
