@@ -4,7 +4,9 @@ In my free time, I'll develop mainly in Java.
 
   🔭 I’m mainly working on [NatroxMC](https://github.com/NatroxMC/)<br>
   Meanwhile, I work on other projects, mostly private,<br>
-  but you can visit [XML](https://github.com/gabl22/XML), an XML Parser.
+  but you can visit [XML](https://github.com/gabl22/XML), an XML Parser<br>
+  or newer [Solidity](https://github.com/topics/solidity) projects,<br>
+  like [Paysafe](https://github.com/gabl22/Paysafe).
 
   🌱 I’m currently learning about Java<br>
   Whenever a day passes, I've learned something new.<br>
