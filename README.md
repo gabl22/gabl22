@@ -3,15 +3,22 @@ I'm gabl, level 15 in life and Austrian.
 In my free time, I'll develop mainly in Java.
 
   🔭 I’m mainly working alone (sadly :c)<br>
-  If I am not working, i am sleeping or eating<br>
-  each with a probability of .5<br>
+  If I am not working, i am:<br>
+  * .4 @ school (1)<br>
+  * .4 sleeping (0) or
+  * .1 eating<br>
 
   🌱 I’m currently ("still") learning about Java<br>
   Whenever a day passes, I've learned something new.<br>
   I've dedicated some time to HTML, JS and CSS,<br>
   but I'm honest - It was awful. I really do not like<br>
   frontend development. <b>Praise to Frontend Devs</b>🎉<br>
-  I've little experience with Python. (Stay tuned!) 
+  Stay tuned.
+
+  🔥 Stupidity is just a matter of time.<br>
+  No one is immune to the monster of stupidity<br>
+  that is slowly taking over our minds.
+  Be aware.
   
   ✨ You're asking about my story?<br>
   My story is not finished yet.<br>
@@ -23,7 +30,3 @@ In my free time, I'll develop mainly in Java.
   To be continued.
   
   talKie, gabl
-
-  Wait. What even is a talKie?
-  
-  My answer is maybe. Just maybe.
